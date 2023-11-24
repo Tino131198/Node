@@ -1,0 +1,3 @@
+C:\Users\Tino\source\repos\MillieuVriendjes\MillieuVriendjes\obj\Debug\MillieuVriendjes.njsproj.AssemblyReference.cache
+C:\Users\Tino\source\repos\MillieuVriendjes\MillieuVriendjes\obj\Debug\MillieuVriendjes.njsproj.CoreCompileInputs.cache
+C:\Users\Tino\source\repos\MillieuVriendjes\MillieuVriendjes\bin\Microsoft.NodejsTools.WebRole.dll
